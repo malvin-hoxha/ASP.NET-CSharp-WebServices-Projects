@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\UNIVERSITY\\\u0395\u039E\u0395\u03A4\u0391\u03A3\u0397\\\u03A5\u03A0\u0397\u03A1\u0395\u03A3\u0399\u0395\u03A3\\\u0398\u03B5\u03BC\u03B1\u03C4\u03B1\\\u039B\u03A5\u03A3\u0395\u0399\u03A3\\2021\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E758441B-4CAB-4DFE-9862-3F20BFD4B012}|2021\\2021.csproj|c:\\university\\\u03B5\u03BE\u03B5\u03C4\u03B1\u03C3\u03B7\\\u03C5\u03C0\u03B7\u03C1\u03B5\u03C3\u03B9\u03B5\u03C3\\\u03B8\u03B5\u03BC\u03B1\u03C4\u03B1\\\u03BB\u03C5\u03C3\u03B5\u03B9\u03C3\\2021\\2021\\2021.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E758441B-4CAB-4DFE-9862-3F20BFD4B012}|2021\\2021.csproj|solutionrelative:2021\\2021.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E758441B-4CAB-4DFE-9862-3F20BFD4B012}|2021\\2021.csproj|c:\\university\\\u03B5\u03BE\u03B5\u03C4\u03B1\u03C3\u03B7\\\u03C5\u03C0\u03B7\u03C1\u03B5\u03C3\u03B9\u03B5\u03C3\\\u03B8\u03B5\u03BC\u03B1\u03C4\u03B1\\\u03BB\u03C5\u03C3\u03B5\u03B9\u03C3\\2021\\2021\\form.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E758441B-4CAB-4DFE-9862-3F20BFD4B012}|2021\\2021.csproj|solutionrelative:2021\\form.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E758441B-4CAB-4DFE-9862-3F20BFD4B012}|2021\\2021.csproj|c:\\university\\\u03B5\u03BE\u03B5\u03C4\u03B1\u03C3\u03B7\\\u03C5\u03C0\u03B7\u03C1\u03B5\u03C3\u03B9\u03B5\u03C3\\\u03B8\u03B5\u03BC\u03B1\u03C4\u03B1\\\u03BB\u03C5\u03C3\u03B5\u03B9\u03C3\\2021\\2021\\form.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E758441B-4CAB-4DFE-9862-3F20BFD4B012}|2021\\2021.csproj|solutionrelative:2021\\form.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 307,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form.aspx.cs",
+              "DocumentMoniker": "C:\\UNIVERSITY\\\u0395\u039E\u0395\u03A4\u0391\u03A3\u0397\\\u03A5\u03A0\u0397\u03A1\u0395\u03A3\u0399\u0395\u03A3\\\u0398\u03B5\u03BC\u03B1\u03C4\u03B1\\\u039B\u03A5\u03A3\u0395\u0399\u03A3\\2021\\2021\\Form.aspx.cs",
+              "RelativeDocumentMoniker": "2021\\Form.aspx.cs",
+              "ToolTip": "C:\\UNIVERSITY\\\u0395\u039E\u0395\u03A4\u0391\u03A3\u0397\\\u03A5\u03A0\u0397\u03A1\u0395\u03A3\u0399\u0395\u03A3\\\u0398\u03B5\u03BC\u03B1\u03C4\u03B1\\\u039B\u03A5\u03A3\u0395\u0399\u03A3\\2021\\2021\\Form.aspx.cs",
+              "RelativeToolTip": "2021\\Form.aspx.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAuwA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T18:15:06.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form.aspx",
+              "DocumentMoniker": "C:\\UNIVERSITY\\\u0395\u039E\u0395\u03A4\u0391\u03A3\u0397\\\u03A5\u03A0\u0397\u03A1\u0395\u03A3\u0399\u0395\u03A3\\\u0398\u03B5\u03BC\u03B1\u03C4\u03B1\\\u039B\u03A5\u03A3\u0395\u0399\u03A3\\2021\\2021\\Form.aspx",
+              "RelativeDocumentMoniker": "2021\\Form.aspx",
+              "ToolTip": "C:\\UNIVERSITY\\\u0395\u039E\u0395\u03A4\u0391\u03A3\u0397\\\u03A5\u03A0\u0397\u03A1\u0395\u03A3\u0399\u0395\u03A3\\\u0398\u03B5\u03BC\u03B1\u03C4\u03B1\\\u039B\u03A5\u03A3\u0395\u0399\u03A3\\2021\\2021\\Form.aspx",
+              "RelativeToolTip": "2021\\Form.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-02-24T18:12:21.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "2021.asmx.cs",
+              "DocumentMoniker": "C:\\UNIVERSITY\\\u0395\u039E\u0395\u03A4\u0391\u03A3\u0397\\\u03A5\u03A0\u0397\u03A1\u0395\u03A3\u0399\u0395\u03A3\\\u0398\u03B5\u03BC\u03B1\u03C4\u03B1\\\u039B\u03A5\u03A3\u0395\u0399\u03A3\\2021\\2021\\2021.asmx.cs",
+              "RelativeDocumentMoniker": "2021\\2021.asmx.cs",
+              "ToolTip": "C:\\UNIVERSITY\\\u0395\u039E\u0395\u03A4\u0391\u03A3\u0397\\\u03A5\u03A0\u0397\u03A1\u0395\u03A3\u0399\u0395\u03A3\\\u0398\u03B5\u03BC\u03B1\u03C4\u03B1\\\u039B\u03A5\u03A3\u0395\u0399\u03A3\\2021\\2021\\2021.asmx.cs",
+              "RelativeToolTip": "2021\\2021.asmx.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T18:11:55.589Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
