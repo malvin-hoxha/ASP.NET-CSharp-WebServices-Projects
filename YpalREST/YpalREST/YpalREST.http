@@ -1,0 +1,6 @@
+@YpalREST_HostAddress = http://localhost:5062
+
+GET {{YpalREST_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

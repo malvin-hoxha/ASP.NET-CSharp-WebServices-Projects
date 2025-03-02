@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\UNIVERSITY\\\u0395\u039E\u0395\u03A4\u0391\u03A3\u0397\\\u03A5\u03A0\u0397\u03A1\u0395\u03A3\u0399\u0395\u03A3\\\u0398\u03B5\u03BC\u03B1\u03C4\u03B1\\\u039B\u03A5\u03A3\u0395\u0399\u03A3\\YpalREST\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BACA150E-8336-4AFC-ACC6-19FF6F0E332A}|YpalREST\\YpalREST.csproj|c:\\university\\\u03B5\u03BE\u03B5\u03C4\u03B1\u03C3\u03B7\\\u03C5\u03C0\u03B7\u03C1\u03B5\u03C3\u03B9\u03B5\u03C3\\\u03B8\u03B5\u03BC\u03B1\u03C4\u03B1\\\u03BB\u03C5\u03C3\u03B5\u03B9\u03C3\\ypalrest\\ypalrest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BACA150E-8336-4AFC-ACC6-19FF6F0E332A}|YpalREST\\YpalREST.csproj|solutionrelative:ypalrest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BACA150E-8336-4AFC-ACC6-19FF6F0E332A}|YpalREST\\YpalREST.csproj|c:\\university\\\u03B5\u03BE\u03B5\u03C4\u03B1\u03C3\u03B7\\\u03C5\u03C0\u03B7\u03C1\u03B5\u03C3\u03B9\u03B5\u03C3\\\u03B8\u03B5\u03BC\u03B1\u03C4\u03B1\\\u03BB\u03C5\u03C3\u03B5\u03B9\u03C3\\ypalrest\\ypalrest\\repo\\ypalrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BACA150E-8336-4AFC-ACC6-19FF6F0E332A}|YpalREST\\YpalREST.csproj|solutionrelative:ypalrest\\repo\\ypalrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BACA150E-8336-4AFC-ACC6-19FF6F0E332A}|YpalREST\\YpalREST.csproj|c:\\university\\\u03B5\u03BE\u03B5\u03C4\u03B1\u03C3\u03B7\\\u03C5\u03C0\u03B7\u03C1\u03B5\u03C3\u03B9\u03B5\u03C3\\\u03B8\u03B5\u03BC\u03B1\u03C4\u03B1\\\u03BB\u03C5\u03C3\u03B5\u03B9\u03C3\\ypalrest\\ypalrest\\models\\ypal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BACA150E-8336-4AFC-ACC6-19FF6F0E332A}|YpalREST\\YpalREST.csproj|solutionrelative:ypalrest\\models\\ypal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BACA150E-8336-4AFC-ACC6-19FF6F0E332A}|YpalREST\\YpalREST.csproj|c:\\university\\\u03B5\u03BE\u03B5\u03C4\u03B1\u03C3\u03B7\\\u03C5\u03C0\u03B7\u03C1\u03B5\u03C3\u03B9\u03B5\u03C3\\\u03B8\u03B5\u03BC\u03B1\u03C4\u03B1\\\u03BB\u03C5\u03C3\u03B5\u03B9\u03C3\\ypalrest\\ypalrest\\controllers\\ypalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BACA150E-8336-4AFC-ACC6-19FF6F0E332A}|YpalREST\\YpalREST.csproj|solutionrelative:ypalrest\\controllers\\ypalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BACA150E-8336-4AFC-ACC6-19FF6F0E332A}|YpalREST\\YpalREST.csproj|c:\\university\\\u03B5\u03BE\u03B5\u03C4\u03B1\u03C3\u03B7\\\u03C5\u03C0\u03B7\u03C1\u03B5\u03C3\u03B9\u03B5\u03C3\\\u03B8\u03B5\u03BC\u03B1\u03C4\u03B1\\\u03BB\u03C5\u03C3\u03B5\u03B9\u03C3\\ypalrest\\ypalrest\\models\\createorupdateypalschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BACA150E-8336-4AFC-ACC6-19FF6F0E332A}|YpalREST\\YpalREST.csproj|solutionrelative:ypalrest\\models\\createorupdateypalschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BACA150E-8336-4AFC-ACC6-19FF6F0E332A}|YpalREST\\YpalREST.csproj|c:\\university\\\u03B5\u03BE\u03B5\u03C4\u03B1\u03C3\u03B7\\\u03C5\u03C0\u03B7\u03C1\u03B5\u03C3\u03B9\u03B5\u03C3\\\u03B8\u03B5\u03BC\u03B1\u03C4\u03B1\\\u03BB\u03C5\u03C3\u03B5\u03B9\u03C3\\ypalrest\\ypalrest\\repo\\iypal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BACA150E-8336-4AFC-ACC6-19FF6F0E332A}|YpalREST\\YpalREST.csproj|solutionrelative:ypalrest\\repo\\iypal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 307,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\UNIVERSITY\\\u0395\u039E\u0395\u03A4\u0391\u03A3\u0397\\\u03A5\u03A0\u0397\u03A1\u0395\u03A3\u0399\u0395\u03A3\\\u0398\u03B5\u03BC\u03B1\u03C4\u03B1\\\u039B\u03A5\u03A3\u0395\u0399\u03A3\\YpalREST\\YpalREST\\Program.cs",
+              "RelativeDocumentMoniker": "YpalREST\\Program.cs",
+              "ToolTip": "C:\\UNIVERSITY\\\u0395\u039E\u0395\u03A4\u0391\u03A3\u0397\\\u03A5\u03A0\u0397\u03A1\u0395\u03A3\u0399\u0395\u03A3\\\u0398\u03B5\u03BC\u03B1\u03C4\u03B1\\\u039B\u03A5\u03A3\u0395\u0399\u03A3\\YpalREST\\YpalREST\\Program.cs",
+              "RelativeToolTip": "YpalREST\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T17:44:15.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IYpal.cs",
+              "DocumentMoniker": "C:\\UNIVERSITY\\\u0395\u039E\u0395\u03A4\u0391\u03A3\u0397\\\u03A5\u03A0\u0397\u03A1\u0395\u03A3\u0399\u0395\u03A3\\\u0398\u03B5\u03BC\u03B1\u03C4\u03B1\\\u039B\u03A5\u03A3\u0395\u0399\u03A3\\YpalREST\\YpalREST\\Repo\\IYpal.cs",
+              "RelativeDocumentMoniker": "YpalREST\\Repo\\IYpal.cs",
+              "ToolTip": "C:\\UNIVERSITY\\\u0395\u039E\u0395\u03A4\u0391\u03A3\u0397\\\u03A5\u03A0\u0397\u03A1\u0395\u03A3\u0399\u0395\u03A3\\\u0398\u03B5\u03BC\u03B1\u03C4\u03B1\\\u039B\u03A5\u03A3\u0395\u0399\u03A3\\YpalREST\\YpalREST\\Repo\\IYpal.cs",
+              "RelativeToolTip": "YpalREST\\Repo\\IYpal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T17:28:29.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateOrUpdateYpalSchema.cs",
+              "DocumentMoniker": "C:\\UNIVERSITY\\\u0395\u039E\u0395\u03A4\u0391\u03A3\u0397\\\u03A5\u03A0\u0397\u03A1\u0395\u03A3\u0399\u0395\u03A3\\\u0398\u03B5\u03BC\u03B1\u03C4\u03B1\\\u039B\u03A5\u03A3\u0395\u0399\u03A3\\YpalREST\\YpalREST\\Models\\CreateOrUpdateYpalSchema.cs",
+              "RelativeDocumentMoniker": "YpalREST\\Models\\CreateOrUpdateYpalSchema.cs",
+              "ToolTip": "C:\\UNIVERSITY\\\u0395\u039E\u0395\u03A4\u0391\u03A3\u0397\\\u03A5\u03A0\u0397\u03A1\u0395\u03A3\u0399\u0395\u03A3\\\u0398\u03B5\u03BC\u03B1\u03C4\u03B1\\\u039B\u03A5\u03A3\u0395\u0399\u03A3\\YpalREST\\YpalREST\\Models\\CreateOrUpdateYpalSchema.cs",
+              "RelativeToolTip": "YpalREST\\Models\\CreateOrUpdateYpalSchema.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T17:26:09.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "YpalRepo.cs",
+              "DocumentMoniker": "C:\\UNIVERSITY\\\u0395\u039E\u0395\u03A4\u0391\u03A3\u0397\\\u03A5\u03A0\u0397\u03A1\u0395\u03A3\u0399\u0395\u03A3\\\u0398\u03B5\u03BC\u03B1\u03C4\u03B1\\\u039B\u03A5\u03A3\u0395\u0399\u03A3\\YpalREST\\YpalREST\\Repo\\YpalRepo.cs",
+              "RelativeDocumentMoniker": "YpalREST\\Repo\\YpalRepo.cs",
+              "ToolTip": "C:\\UNIVERSITY\\\u0395\u039E\u0395\u03A4\u0391\u03A3\u0397\\\u03A5\u03A0\u0397\u03A1\u0395\u03A3\u0399\u0395\u03A3\\\u0398\u03B5\u03BC\u03B1\u03C4\u03B1\\\u039B\u03A5\u03A3\u0395\u0399\u03A3\\YpalREST\\YpalREST\\Repo\\YpalRepo.cs",
+              "RelativeToolTip": "YpalREST\\Repo\\YpalRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T17:25:02.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ypal.cs",
+              "DocumentMoniker": "C:\\UNIVERSITY\\\u0395\u039E\u0395\u03A4\u0391\u03A3\u0397\\\u03A5\u03A0\u0397\u03A1\u0395\u03A3\u0399\u0395\u03A3\\\u0398\u03B5\u03BC\u03B1\u03C4\u03B1\\\u039B\u03A5\u03A3\u0395\u0399\u03A3\\YpalREST\\YpalREST\\Models\\Ypal.cs",
+              "RelativeDocumentMoniker": "YpalREST\\Models\\Ypal.cs",
+              "ToolTip": "C:\\UNIVERSITY\\\u0395\u039E\u0395\u03A4\u0391\u03A3\u0397\\\u03A5\u03A0\u0397\u03A1\u0395\u03A3\u0399\u0395\u03A3\\\u0398\u03B5\u03BC\u03B1\u03C4\u03B1\\\u039B\u03A5\u03A3\u0395\u0399\u03A3\\YpalREST\\YpalREST\\Models\\Ypal.cs",
+              "RelativeToolTip": "YpalREST\\Models\\Ypal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T17:23:23.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "YpalController.cs",
+              "DocumentMoniker": "C:\\UNIVERSITY\\\u0395\u039E\u0395\u03A4\u0391\u03A3\u0397\\\u03A5\u03A0\u0397\u03A1\u0395\u03A3\u0399\u0395\u03A3\\\u0398\u03B5\u03BC\u03B1\u03C4\u03B1\\\u039B\u03A5\u03A3\u0395\u0399\u03A3\\YpalREST\\YpalREST\\Controllers\\YpalController.cs",
+              "RelativeDocumentMoniker": "YpalREST\\Controllers\\YpalController.cs",
+              "ToolTip": "C:\\UNIVERSITY\\\u0395\u039E\u0395\u03A4\u0391\u03A3\u0397\\\u03A5\u03A0\u0397\u03A1\u0395\u03A3\u0399\u0395\u03A3\\\u0398\u03B5\u03BC\u03B1\u03C4\u03B1\\\u039B\u03A5\u03A3\u0395\u0399\u03A3\\YpalREST\\YpalREST\\Controllers\\YpalController.cs",
+              "RelativeToolTip": "YpalREST\\Controllers\\YpalController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwBwAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T17:21:47.535Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
